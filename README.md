@@ -1,3 +1,3 @@
 # React Projects
  
-This repository contains react-based projects.
+This repository contains React-based projects.
